@@ -1,4 +1,4 @@
-//This project is created by Muhammad Ammar 
+//This project is created by Muhammad Ammar. 
 
 #include <iostream>
 #include <cstdlib>
